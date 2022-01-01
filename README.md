@@ -8,6 +8,6 @@
 - 🤔 I’m looking for help with collaborating with smart people
 - 👯 I’m looking to collaborate on more open source projects
 -  💬 Ask me about books, philosophy and photography
-- 📫 How to reach me: Twitter-https://twitter.com/Isholatomii Linkin-https://www.linkedin.com/in/isholasobuur/
+- 📫 How to reach me: Twitter-https://twitter.com/Isholatomii Linkdin-https://www.linkedin.com/in/isholasobuur/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to read and also take pictures of beautiful places
