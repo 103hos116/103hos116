@@ -1,6 +1,5 @@
 ### Hey there, I'm AbdulSobuur 👋
 <br/>
-
 ## I'm a Software Engineer currently focused on mobile develpment
 <br/>
 <br/>
