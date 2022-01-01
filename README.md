@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**t-bolt/t-bolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Engineer currently focused on mobile develpment
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on new and interesting  ideas/projects
+- 🌱 I’m currently learning flutter
+- 🤔 I’m looking for help with collaborating with smart people
+- 👯 I’m looking to collaborate on more open source projects
+-  💬 Ask me about books, philosophy and photography
+- 📫 How to reach me: Twitter-https://twitter.com/Isholatomii Linkin-https://www.linkedin.com/in/isholasobuur/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to read and also take pictures of beautiful places
