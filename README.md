@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer
 
-- 🔭 I’m currently working on new and interesting  ideas/projects
+- 🔭 I'm currently learning flutter/dart
 - 👯 I’m looking to collaborate on more open source projects
 -  💬 Ask me about math and software engineering.
 -  fun facts - loves photography and also interested in philosophy 
