@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on more open source projects
 -  💬 Ask me about math and software engineering.
 -  fun facts - I love Art and read books on philosophy, growth.(This is contigent on where my curiosity leads me)..I also love 🐈's
-- 📫 How to reach me: ~~Twitter-https://twitter.com/Isholatomii~~ (🤷‍♂️ I __live__ the Deep Life) --Email isholasobuur@gmail.com
+- 📫 How to reach me: ~~Twitter-https://twitter.com/Isholatomii~~ (🤷‍♂️ I __live__ the Deep Life)  Email isholasobuur@gmail.com
